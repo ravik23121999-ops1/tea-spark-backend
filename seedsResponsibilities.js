@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 const dotenv = require("dotenv");
-const Responsibility = require("./models/ResponsibilitiesModel");
+const Responsibility = require("./models/responsibilitiesModel");
 
 dotenv.config();
 

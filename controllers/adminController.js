@@ -1,6 +1,6 @@
 const Admin = require("../models/AdminModel");
 const Staff = require("../models/StaffModel");
-const Responsibility = require("../models/ResponsibilitiesModel");
+const Responsibility = require("../models/responsibilitiesModel");
 const bcrypt = require("bcrypt");
 const jwt = require("jsonwebtoken");
 const sendEmail = require("../utils/sendEmail");
